@@ -39,12 +39,7 @@ DEFAULT_NAME = 'Sony Media Player'
 NICKNAME = 'Home Assistant'
 
 CONF_BROADCAST_ADDRESS = 'broadcast_address'
-CONF_APP_PORT = 'app_port'
-CONF_DMR_PORT = 'dmr_port'
-CONF_IRCC_PORT = 'ircc_port'
-DEFAULT_APP_PORT = 50202
-DEFAULT_DMR_PORT = 52323
-DEFAULT_IRCC_PORT = 50001
+CONF_APP_PORT = 'app_port',
 
 
 # Map ip to request id for configuring
